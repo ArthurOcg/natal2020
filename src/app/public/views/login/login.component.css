@@ -1,0 +1,16 @@
+.jumbotron {
+    width: 100%;
+}
+
+.container {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.card {
+    padding: 30px;
+}
+
+.form-group > button {
+    margin-top: 15px;
+}
